@@ -1,0 +1,11 @@
+@charset "ISO-8859-1";
+.error{
+	color:red;
+}
+.success{
+	color:green;
+}
+a{
+	text-decoration:none;
+	color:green;
+}
